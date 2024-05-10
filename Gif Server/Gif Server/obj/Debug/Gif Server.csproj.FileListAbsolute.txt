@@ -1,0 +1,11 @@
+C:\Users\Branko\source\repos\Gif Server\Gif Server\bin\Debug\Gif Server.exe.config
+C:\Users\Branko\source\repos\Gif Server\Gif Server\bin\Debug\Gif Server.exe
+C:\Users\Branko\source\repos\Gif Server\Gif Server\bin\Debug\Gif Server.pdb
+C:\Users\Branko\source\repos\Gif Server\Gif Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Branko\source\repos\Gif Server\Gif Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.csproj.AssemblyReference.cache
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.csproj.CoreCompileInputs.cache
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.csproj.CopyComplete
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.exe
+C:\Users\Branko\source\repos\Gif Server\Gif Server\obj\Debug\Gif Server.pdb
